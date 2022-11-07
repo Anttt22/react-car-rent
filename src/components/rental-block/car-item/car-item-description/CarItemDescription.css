@@ -1,0 +1,12 @@
+.cars-item__description {
+    margin: 20px 20px 15px 20px;
+}
+
+.description-car li {
+    margin: 0px 0px 15px 0px;
+}
+
+.description-car li>span {
+    margin-left: 5px;
+    color: #90A3BF;
+}

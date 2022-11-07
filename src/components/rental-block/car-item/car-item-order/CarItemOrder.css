@@ -1,0 +1,33 @@
+.cars-item__to-order {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0px 0px 20px 0px;
+  }
+  
+  .price-order {
+    display: inline-block;
+    font-size: 12px;
+  }
+
+  ._grey {
+    color: #90A3BF;
+    font-size: 10px;
+  }
+  
+  .rent-btn {
+    background: #3563E9;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 3px;
+  }
+  
+  .btn-rent-link {
+    color: #fff;
+    padding: 10px 24px 10px 24px;
+  }
+  
+  .btn-show {
+    color: #fff;
+  }

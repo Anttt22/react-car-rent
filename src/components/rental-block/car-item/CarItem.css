@@ -1,0 +1,18 @@
+.cars-item {
+    background: #fff;
+    flex: 0 0 20%;
+    border-radius: 5px;
+    margin: 10px 15px 10px 15px;
+  }
+  
+  .car-item__wraper {
+    width: 200px;
+    margin: 0 auto;
+  }
+
+  @media (max-width: 768px) {
+    .cars-item {
+      background: #fff;
+      flex: 1 1 50%;
+    }
+  }

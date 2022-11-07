@@ -1,0 +1,21 @@
+.cars-item__title {
+    margin: 10px;
+  }
+  
+  .title-car {
+    font-size: 18px;
+    font-family: PlusJacartaMedium;
+    color: #1A202C;
+    line-height: 1.2;
+  }
+  
+  .type-car {
+    font-size: 12px;
+    font-family: PlusJacartaMedium;
+    color: #90A3BF;
+    line-height: 1.2;
+  }
+  
+  .car-reiting {
+    display: flex;
+  }
